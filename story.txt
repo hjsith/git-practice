@@ -1,6 +1,7 @@
 Once upon a time.
 In a far away land,
-Some dude called Jerry, 
+Some dude called Jerry,
+Learnt Javascript
 Some dude called Bob.
 The end.
 But not really
